@@ -1,0 +1,16 @@
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\bin\Debug\net5.0\exercise9.exe
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\bin\Debug\net5.0\exercise9.deps.json
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\bin\Debug\net5.0\exercise9.runtimeconfig.json
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\bin\Debug\net5.0\exercise9.runtimeconfig.dev.json
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\bin\Debug\net5.0\exercise9.dll
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\bin\Debug\net5.0\ref\exercise9.dll
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\bin\Debug\net5.0\exercise9.pdb
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\obj\Debug\net5.0\exercise9.csproj.AssemblyReference.cache
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\obj\Debug\net5.0\exercise9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\obj\Debug\net5.0\exercise9.AssemblyInfoInputs.cache
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\obj\Debug\net5.0\exercise9.AssemblyInfo.cs
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\obj\Debug\net5.0\exercise9.csproj.CoreCompileInputs.cache
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\obj\Debug\net5.0\exercise9.dll
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\obj\Debug\net5.0\ref\exercise9.dll
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\obj\Debug\net5.0\exercise9.pdb
+C:\Users\shivgautam\Desktop\assignment\fourth\exercise9\exercise9\obj\Debug\net5.0\exercise9.genruntimeconfig.cache
