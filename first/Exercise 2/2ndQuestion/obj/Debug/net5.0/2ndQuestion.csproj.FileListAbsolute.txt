@@ -1,0 +1,16 @@
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\bin\Debug\net5.0\2ndQuestion.exe
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\bin\Debug\net5.0\2ndQuestion.deps.json
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\bin\Debug\net5.0\2ndQuestion.runtimeconfig.json
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\bin\Debug\net5.0\2ndQuestion.runtimeconfig.dev.json
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\bin\Debug\net5.0\2ndQuestion.dll
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\bin\Debug\net5.0\ref\2ndQuestion.dll
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\bin\Debug\net5.0\2ndQuestion.pdb
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\obj\Debug\net5.0\2ndQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\obj\Debug\net5.0\2ndQuestion.AssemblyInfoInputs.cache
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\obj\Debug\net5.0\2ndQuestion.AssemblyInfo.cs
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\obj\Debug\net5.0\2ndQuestion.csproj.CoreCompileInputs.cache
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\obj\Debug\net5.0\2ndQuestion.dll
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\obj\Debug\net5.0\ref\2ndQuestion.dll
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\obj\Debug\net5.0\2ndQuestion.pdb
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\obj\Debug\net5.0\2ndQuestion.genruntimeconfig.cache
+C:\Users\shivgautam\Desktop\C#\FirstAssignment\2ndQuestion\2ndQuestion\obj\Debug\net5.0\2ndQuestion.csproj.AssemblyReference.cache
