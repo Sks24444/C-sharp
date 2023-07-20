@@ -1,0 +1,16 @@
+C:\Users\shivgautam\Desktop\assignment\second\second\bin\Debug\net5.0\second.exe
+C:\Users\shivgautam\Desktop\assignment\second\second\bin\Debug\net5.0\second.deps.json
+C:\Users\shivgautam\Desktop\assignment\second\second\bin\Debug\net5.0\second.runtimeconfig.json
+C:\Users\shivgautam\Desktop\assignment\second\second\bin\Debug\net5.0\second.runtimeconfig.dev.json
+C:\Users\shivgautam\Desktop\assignment\second\second\bin\Debug\net5.0\second.dll
+C:\Users\shivgautam\Desktop\assignment\second\second\bin\Debug\net5.0\ref\second.dll
+C:\Users\shivgautam\Desktop\assignment\second\second\bin\Debug\net5.0\second.pdb
+C:\Users\shivgautam\Desktop\assignment\second\second\obj\Debug\net5.0\second.csproj.AssemblyReference.cache
+C:\Users\shivgautam\Desktop\assignment\second\second\obj\Debug\net5.0\second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivgautam\Desktop\assignment\second\second\obj\Debug\net5.0\second.AssemblyInfoInputs.cache
+C:\Users\shivgautam\Desktop\assignment\second\second\obj\Debug\net5.0\second.AssemblyInfo.cs
+C:\Users\shivgautam\Desktop\assignment\second\second\obj\Debug\net5.0\second.csproj.CoreCompileInputs.cache
+C:\Users\shivgautam\Desktop\assignment\second\second\obj\Debug\net5.0\second.dll
+C:\Users\shivgautam\Desktop\assignment\second\second\obj\Debug\net5.0\ref\second.dll
+C:\Users\shivgautam\Desktop\assignment\second\second\obj\Debug\net5.0\second.pdb
+C:\Users\shivgautam\Desktop\assignment\second\second\obj\Debug\net5.0\second.genruntimeconfig.cache
