@@ -1,0 +1,16 @@
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\bin\Debug\net5.0\Exersize14.exe
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\bin\Debug\net5.0\Exersize14.deps.json
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\bin\Debug\net5.0\Exersize14.runtimeconfig.json
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\bin\Debug\net5.0\Exersize14.runtimeconfig.dev.json
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\bin\Debug\net5.0\Exersize14.dll
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\bin\Debug\net5.0\ref\Exersize14.dll
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\bin\Debug\net5.0\Exersize14.pdb
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\obj\Debug\net5.0\Exersize14.csproj.AssemblyReference.cache
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\obj\Debug\net5.0\Exersize14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\obj\Debug\net5.0\Exersize14.AssemblyInfoInputs.cache
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\obj\Debug\net5.0\Exersize14.AssemblyInfo.cs
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\obj\Debug\net5.0\Exersize14.csproj.CoreCompileInputs.cache
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\obj\Debug\net5.0\Exersize14.dll
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\obj\Debug\net5.0\ref\Exersize14.dll
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\obj\Debug\net5.0\Exersize14.pdb
+C:\Users\shivgautam\Desktop\assignment\Sixth\Exersize14\Exersize14\obj\Debug\net5.0\Exersize14.genruntimeconfig.cache
