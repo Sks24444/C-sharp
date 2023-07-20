@@ -1,0 +1,16 @@
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\bin\Debug\net5.0\exercise17.exe
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\bin\Debug\net5.0\exercise17.deps.json
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\bin\Debug\net5.0\exercise17.runtimeconfig.json
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\bin\Debug\net5.0\exercise17.runtimeconfig.dev.json
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\bin\Debug\net5.0\exercise17.dll
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\bin\Debug\net5.0\ref\exercise17.dll
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\bin\Debug\net5.0\exercise17.pdb
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\obj\Debug\net5.0\exercise17.csproj.AssemblyReference.cache
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\obj\Debug\net5.0\exercise17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\obj\Debug\net5.0\exercise17.AssemblyInfoInputs.cache
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\obj\Debug\net5.0\exercise17.AssemblyInfo.cs
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\obj\Debug\net5.0\exercise17.csproj.CoreCompileInputs.cache
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\obj\Debug\net5.0\exercise17.dll
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\obj\Debug\net5.0\ref\exercise17.dll
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\obj\Debug\net5.0\exercise17.pdb
+C:\Users\shivgautam\Desktop\assignment\seventh\exercise17\exercise17\obj\Debug\net5.0\exercise17.genruntimeconfig.cache
